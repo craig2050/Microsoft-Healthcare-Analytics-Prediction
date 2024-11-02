@@ -28,6 +28,8 @@ The dataset consists of 100,000 rows and 28 columns, with no missing values, mak
 3. **Feature Engineering**: 
    - Created new features, including a transformed readmission count (rcount) and aggregate clinical flags.
    - Categorical variables were encoded to enhance the machine learning models.
+  
+![Featuren Engineering](./Slide1.jpeg)
 
 4. **Modeling**: 
    - Built multiple machine learning models using Random Forest for regression and classification tasks.
